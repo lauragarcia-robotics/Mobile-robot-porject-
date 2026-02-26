@@ -28,6 +28,12 @@ This project was developed as part of my Robotics specialization at Universitat 
  - Mobile app integration
 
 ## Media 
+[Line following model](https://youtube.com/shorts/XbW1n0m5VbU) 
+[Bluetooth control robot](https://youtube.com/shorts/x9Slh31cFtY)
+[Robots hunting jellyfish](https://youtube.com/shorts/0gbQlZa_OUM)
+
+![IMG-20250604-WA0005](https://github.com/user-attachments/assets/7dbb5212-2af9-4bd6-9bb8-2e2bbc92708c)
+![IMG-20250520-WA0002](https://github.com/user-attachments/assets/cd98236a-365c-429d-abe9-b90783664ef3)
 
 
 
